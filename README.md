@@ -1,4 +1,1 @@
-JXAudioPlayer
-=============
-
-Simple Audio Player
+# JXAudioPlayer
