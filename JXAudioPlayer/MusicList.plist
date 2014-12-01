@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>指纹</string>
+		<key>author</key>
+		<string>Author_One</string>
+		<key>album</key>
+		<string>Album_One</string>
+		<key>url</key>
+		<string>http://www.cocoanetics.com/files/Cocoanetics_031.mp3</string>
+		<key>picture</key>
+		<string>choose_project_tmp</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>没那么简单</string>
+		<key>author</key>
+		<string>Author_Two</string>
+		<key>album</key>
+		<string>Album_Two</string>
+		<key>url</key>
+		<string>http://www.cocoanetics.com/files/Cocoanetics_031.mp3</string>
+		<key>picture</key>
+		<string>choose_project_tmp</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>海绵宝宝</string>
+		<key>author</key>
+		<string>Author_Three</string>
+		<key>album</key>
+		<string>Album_Three</string>
+		<key>url</key>
+		<string>http://www.cocoanetics.com/files/Cocoanetics_031.mp3</string>
+		<key>picture</key>
+		<string>choose_project_tmp</string>
+	</dict>
+</array>
+</plist>
